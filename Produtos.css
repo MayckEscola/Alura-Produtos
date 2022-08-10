@@ -1,8 +1,16 @@
-header {background:DarkViolet;}
+header {background:DarkViolet;
+padding:20px;}
 nav li {display:inline;
 margin:0 0 0 15px;}
 nav a {text-transform: uppercase;
 color: #FFFFFF;
 font-weight:bold;
-font-size:22px;
+font-size:25px;
 text-decoration:none;}
+.caixa{position:relative;
+width:940=px;
+margin:25px auto;}
+nav {position: absolute;
+top:150px;
+right:0;
+}
